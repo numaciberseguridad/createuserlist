@@ -4,4 +4,4 @@ Imprime modificaciones en los nombres de personas pasados a través de archivo a
 Uso: python3 createuserlist.py lista_nombres.txt > usuarios.txt
 
 
-![Ejecución y resultado](https://github.com/numaciberseguridad/createuserlist/blob/main/images/execute_script_.JPG)
+![](https://github.com/numaciberseguridad/createuserlist/blob/main/images/execute_script_2.JPG)
